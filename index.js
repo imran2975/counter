@@ -1,4 +1,4 @@
-let count = 0
+let count = 1
 
 function increment() {
     document.querySelector("h2").innerText = count++;
