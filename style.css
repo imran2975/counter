@@ -19,6 +19,7 @@ button{
     font-weight: bold;
     border-radius: 50px;
     border: 5px solid #F963FF;
+    outline: none;
 }
 
 #increment-btn{
